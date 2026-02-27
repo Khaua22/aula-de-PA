@@ -1,0 +1,130 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMQWF8+NeYlxze2gciWarl4",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Khaua22/aula-de-PA/blob/main/aula%20de%20programa%C3%A7%C3%A3o%20(aula%202a0\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 30,
+      "metadata": {
+        "id": "KY5PFfkepebo"
+      },
+      "outputs": [],
+      "source": [
+        "a=5\n",
+        "b=6\n",
+        "t=a+b"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Tipos Numéricos\n",
+        "Idade=25 #int\n",
+        "Altura=1,75 #float\n",
+        "numéro_complexo=2+3j #complex"
+      ],
+      "metadata": {
+        "id": "zmzOowyJy0IM"
+      },
+      "execution_count": 31,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Tipo Texto\n",
+        "nome= \"Alice\" # str"
+      ],
+      "metadata": {
+        "id": "hQlQQCmCz_YM"
+      },
+      "execution_count": 32,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Tipo  Buleano\n",
+        "esta_chovendo = False  #boot"
+      ],
+      "metadata": {
+        "id": "PXdReCbL0pC5"
+      },
+      "execution_count": 33,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#tipo lista (mutavel)\n",
+        "\n",
+        "numéros = [1,2,3,4,5] #list"
+      ],
+      "metadata": {
+        "id": "THWbAGTz1ijT"
+      },
+      "execution_count": 34,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# tipo tupla(imutavel)\n",
+        "cordenandas = (10,20)  #tuple"
+      ],
+      "metadata": {
+        "id": "ZTvKhxhu2dk8"
+      },
+      "execution_count": 35,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Tipo Conjunto (valores unicos)\n",
+        "vogais = {'a','e','i','o','u'} #set"
+      ],
+      "metadata": {
+        "id": "CI_0R6M924Wz"
+      },
+      "execution_count": 36,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Tipo Dicionario (Chave Valor)\n",
+        "pessoa = {\"nome\":\"carlos\",\"idade\": 30} #dict"
+      ],
+      "metadata": {
+        "id": "x2XVelI74FhQ"
+      },
+      "execution_count": 37,
+      "outputs": []
+    }
+  ]
+}
